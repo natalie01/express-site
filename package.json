@@ -1,0 +1,17 @@
+{
+  "name": "my-site",
+  "version": "",
+"main": "index.js",
+  "scripts": {
+	"start":".routes/index.js",
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-generator": "^4.15.0"
+  },
+"engines": {
+    "node": "8.1.4"
+  }
+
+}
